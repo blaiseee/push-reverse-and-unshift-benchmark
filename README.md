@@ -1,0 +1,3 @@
+This TypeScript project explores the performance implications of two common array manipulation techniques: push() followed by reverse(), and unshift(). Arrays are fundamental in JavaScript and TypeScript, but the choice of method for adding elements can significantly impact performance, especially in scenarios involving large datasets.
+
+The project benchmarks the efficiency of push() + reverse() versus unshift() across various array sizes. It provides detailed insights into the time complexity and execution speed of each approach, helping developers make informed decisions when working with arrays. The results are visualized to highlight performance trends, offering a clear comparison of these methods in practical use cases.
